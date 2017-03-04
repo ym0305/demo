@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeChatDemo</string>
+    <string name="add">添加好友</string>
+    <string name="help">帮助</string>
+    <string name="group">群组</string>
+
+
+    <string name="message">聊天</string>
+    <string name="user">用户</string>
+    <string name="setting">设置</string>
+    <string name="location">附近</string>
+    <string name="contacts">好友</string>
+</resources>
