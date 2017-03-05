@@ -18,10 +18,12 @@
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
         <FrameLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:id="@+id/main"
-            >
-
+            android:layout_height="match_parent">
+            <fragment
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:name="com.example.ym.wechatdemo.UserFrag"
+                android:id="@+id/frag"/>
         </FrameLayout>
 
 
